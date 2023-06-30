@@ -1,0 +1,77 @@
+.Heading{
+    text-align: center;
+    color: rgb(88, 88, 167);
+    text-decoration: solid;
+    font-family: times;
+}
+.Address{
+    text-align: center;
+    color: black;
+    text-decoration: wavy;
+    font-family: times;
+}
+.Mobile{
+    text-align: center;
+    color: black;
+    text-decoration: wavy;
+    font-family: times;
+}
+.Email{
+    text-align: center;
+    color: black;
+    text-decoration: wavy;
+    font-family: times;
+}
+.linkedin{
+    text-align: center;
+    color: black;
+    text-decoration: wavy;
+    font-family: times;
+}
+.DOB{
+    text-align: center;
+    color: black;
+    text-decoration: wavy;
+    font-family: times;
+}
+.img{
+    float: right;
+    width: 12%;
+}
+.Head{
+    text-align: left;
+    color: white;
+    text-decoration: wavy;
+    background-color: rgb(88, 88, 167);
+}
+.para{
+    text-align: left;
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: times;
+}
+.Education{
+    text-align: left;
+    color: black;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: times; 
+    line-height: 30px;
+}
+.Edupara{
+    text-align: right;
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: times; 
+}
+.Education2{
+    text-align: left;
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: times; 
+    line-height: 30px;
+    text-transform: capitalize;
+}
